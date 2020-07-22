@@ -7,7 +7,7 @@ Dependencies:
 
 
 1. Click on the RSA link in your email and copy the 'ctfData' string value  from the address bar and use it with the command below:  
-If you're using an iphone, you may have received your ctfData in your email already..
+If you're using an iphone, you may have received your ctfData in your email already..  
 `stoken import --token='com.rsa.securid://ctf?ctfData=YOUR-CTF-DATA-HERE'`  
 
 2. Enter your PIN as your password
