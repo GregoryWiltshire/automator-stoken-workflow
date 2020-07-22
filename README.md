@@ -20,4 +20,8 @@ If you're using an iphone, you may have received your ctfData in your email alre
 
 7. System Preferences > Extensions > Touch Bar > Customize Control Strip; drop quick actions into the default set  
 
-8. Try the button RSA-TOKEN in your app of choice, it should come up with a prompt warning for permissions for a SERVICESUIAGENT
+8. You shoud now have a 'RSA-TOKEN' quick action button, try the button in your app of choice, it should come up with a prompt warning for permissions for a 'SERVICESUIAGENT'...  
+Enable the checkbox for this, and any other app that pops up when you try to use the quick action button.
+
+To use the button just click any field you want to enter your current RSA token into and hit the button!
+Enjoy
