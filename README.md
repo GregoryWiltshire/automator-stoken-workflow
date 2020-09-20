@@ -23,3 +23,7 @@ Enable the checkbox for this, and any other app that pops up when you try to use
 
 To use the button just click any field you want to enter your current RSA token into and hit the button!
 Enjoy
+
+
+Export token to QR:
+stoken export [--android|--iphone] --qr=qr.png
