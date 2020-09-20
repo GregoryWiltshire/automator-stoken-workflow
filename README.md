@@ -25,5 +25,5 @@ To use the button just click any field you want to enter your current RSA token 
 Enjoy
 
 
-Export token to QR:
-stoken export [--android|--iphone] --qr=qr.png
+Export token to QR:  
+`stoken export [--android|--iphone] --qr=qr.png`
